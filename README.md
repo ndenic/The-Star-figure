@@ -10,5 +10,5 @@ Output this matrix; elements of the array should be space separated.
 5
 #### Sample Output 1:
 
-[Image of output](https://github.com/ndenic/The-Star-figure/blob/master/output.jpg)
+![Image of output](https://github.com/ndenic/The-Star-figure/blob/master/output.jpg)
  
